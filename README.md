@@ -2,8 +2,6 @@
 
 **Implementação da equação de estado Peng-Robinson** para calcular fator de compressibilidade Z e volume molar de hidrocarbonetos (C1-C8).
 
-[[Z vs P](img/grafico_z.png)](notebook.ipynb)
-[[Volume PR vs Ideal](img/volume_comparison.png)](notebook.ipynb)
 
 ##  O que faz
 - Calcula **Z** e **Vm** para qualquer hidrocarboneto
