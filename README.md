@@ -19,7 +19,7 @@
 
 ## 🚀 Como usar (sem código!)
 
-1. **[Abrir Notebook interativo]([https://mybinder.org/v2/gh/nazandroid500-cyber/projeto-peng-robinson/main?filepath=notebook.ipynb](https://mybinder.org/v2/gh/nazandroid500-cyber/projeto-peng-robinson-pvt/main?filepath=peng_robinson_pvt.ipynb))** 👈 **Clique aqui**
+1. 1. **[Abrir Notebook interativo](https://mybinder.org/v2/gh/nazandroid500-cyber/projeto-peng-robinson-pvt/main?filepath=peng_robinson_pvt.ipynb)** 👈 **Clique aqui**
 2. Mude `fluido_escolhido = "metano"` e rode célula 8
 3. Gráficos e tabelas atualizam automaticamente!
 
